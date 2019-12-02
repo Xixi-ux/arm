@@ -1,5 +1,47 @@
 .first {
-  height: 706px;
-  width: 1920px;
-  background-image: url(./image/arm-homepage-hero-ai-1920x706.jpg)
+  height: 760px;
+  width: 100%;
+  background-image: url(./image/arm-homepage-hero-ai-1920x706.jpg);
+  list-style-type: none;
 }
+div.M {
+  position: relative;
+  top: 30px;
+  left:30px;
+  margin: 0px 0px 100px 0px;
+
+}
+h1.a {
+  font-family: sans-serif;
+  font-size: 34px;
+  letter-spacing: 70;
+  color: white;
+}
+h2.a {
+  font-family: sans-serif;
+  font-size: 64px;
+  color: white;
+  letter-spacing: 70;
+  margin: 0px 0px 20px 0px;
+  display: inline-block;
+  border-bottom: 5px yellow solid;
+}
+ul {
+  list-style-type: none;
+}
+div.one {
+  font-family: sans-serif;
+  font-size: 22px;
+  letter-spacing: 70;
+  color: white;
+  margin: 20px 0px 20px 0px;
+}
+div.two {
+  font-family: sans-serif;
+  letter-spacing: 70;
+  padding: 0px 20px 0px 20px;
+  border-radius: 15px;
+  background-color: yellow;
+  display: inline;
+}
+
