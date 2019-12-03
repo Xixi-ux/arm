@@ -1,13 +1,14 @@
 .first {
   height: 760px;
-  width: 100%;
+  width: 1960px;
   background-image: url(./image/arm-homepage-hero-ai-1920x706.jpg);
   list-style-type: none;
+
 }
 div.M {
   position: relative;
   top: 30px;
-  left:30px;
+  left:120px;
   margin: 0px 0px 100px 0px;
 
 }
@@ -26,8 +27,11 @@ h2.a {
   display: inline-block;
   border-bottom: 5px yellow solid;
 }
-ul {
+ .first ul {
   list-style-type: none;
+  position: relative;
+  left: 30px;
+
 }
 div.one {
   font-family: sans-serif;
@@ -43,5 +47,33 @@ div.two {
   border-radius: 15px;
   background-color: yellow;
   display: inline;
+}
+.among {
+  width: 100px;
+  background-color: white;
+  height: 800px;
+  float: left;
+  position: relative;
+}
+
+.b {
+  color: black;
+  font-size: 5px;
+  margin: 0px 0px 0px -20px;
+}
+.b a:hover {
+  color: blue;
+
+}
+.J {
+  margin: 50px 0px 0px -10px;
+}
+.among ul {
+  list-style-type: none;
+  display: fixed;
+}
+.donghua {
+  font-size: 30px;
+  margin: 0px 0px 0px -20px;
 }
 
