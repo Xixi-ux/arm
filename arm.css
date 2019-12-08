@@ -78,6 +78,8 @@ div.two {
 }
 .between {
   margin: 0px 0px 0px 70px;
+  font-family: sans-serif;
+  color: inherit;
 }
 h1.b {
   font-size: 40px;
@@ -98,3 +100,86 @@ img.H {
 img.A {
   margin: 10px 0px 0px 600px;
 }
+div.A div.B {
+  font-size: 19px;
+}
+div.A {
+  margin-left: 335px;
+  margin-top: 20px;
+  display: inline-block;
+}
+div.B {
+  margin: 20px 0px 0px 635px;
+  display: inline-block;
+}
+div.C {
+  font-family: sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 40px 0px 0px 200px;
+  display: inline;
+  font-weight: 300;
+  line-height: 1.2;
+}
+div.c {
+  font-family: sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 40px 0px 0px 430px;
+  display: inline;
+  font-weight: 300;
+  line-height: 1.2;
+}
+div.E {
+  font-family: sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 40px 0px 0px 220px;
+  display: inline;
+  font-weight: 300;
+  line-height: 1.2;
+}
+div.F {
+  font-family: sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 40px 0px 0px 500px;
+  display: inline;
+  font-weight: 300;
+  line-height: 1.2;
+}
+div.a {
+  margin: 10px 0px 0px 200px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.65;
+  font-family: sans-serif;
+  display: inline-block;
+}
+div.z {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.65;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 10px 0px 0px 370px;
+}
+div.d {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.65;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 0px 0px 0px 190px;
+}
+div.e {
+  font-size: 16px;
+  line-height: 1.65;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 0px 0px 0px 380px;
+
+}
+
+
+
