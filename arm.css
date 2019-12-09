@@ -125,7 +125,7 @@ div.c {
   font-family: sans-serif;
   font-size: 20px;
   letter-spacing: 1px;
-  margin: 40px 0px 0px 430px;
+  margin: 40px 0px 0px 410px;
   display: inline;
   font-weight: 300;
   line-height: 1.2;
@@ -143,13 +143,13 @@ div.F {
   font-family: sans-serif;
   font-size: 20px;
   letter-spacing: 1px;
-  margin: 40px 0px 0px 500px;
+  margin: 40px 0px 0px 520px;
   display: inline;
   font-weight: 300;
   line-height: 1.2;
 }
 div.a {
-  margin: 10px 0px 0px 200px;
+  margin: 10px 0px 0px 180px;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.65;
@@ -162,7 +162,7 @@ div.z {
   line-height: 1.65;
   font-family: sans-serif;
   display: inline-block;
-  margin: 10px 0px 0px 370px;
+  margin: 10px 0px 0px 320px;
 }
 div.d {
   font-size: 16px;
@@ -177,9 +177,87 @@ div.e {
   line-height: 1.65;
   font-family: sans-serif;
   display: inline-block;
-  margin: 0px 0px 0px 380px;
+  margin: 0px 0px 0px 330px;
 
 }
+.f{
+  font-size: 16px;
+  line-height: 1.65;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 0px 0px 0px 185px;
+}
+.g {
+  font-size: 16px;
+  line-height: 1.65;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 0px 0px 0px 300px;
+}
+.h {
+  font-size: 16px;
+  line-height: 1.65;
+  font-family: sans-serif;
+  display: inline-block;
+  margin-left: 330px;
+}
+.i {
+  font-size: 16px;
+  line-height: 1.65;
+  font-family: sans-serif;
+  display: inline-block;
+  margin-left: 670px;
+}
+.ab {
+  font-size: 20px;
+  font-weight: 400;
+  display: inline-flex;
+  margin: 30px 0px 0px 280px;
 
+}
+.ab a{
+  text-decoration: none;
+  color: #002b49;
+}
+.ab a:hover{
+  color: orange;
+}
+.ad {
+  font-size: 20px;
+  font-weight: 400;
+  display: inline-flex;
+  margin: 30px 0px 0px 580px;
 
+}
+.ad a:hover{
+  color: orange;
+}
+.ad a{
+  text-decoration: none;
+  color: #002b49;
+}
+.zero {
+  width: 100%;
+  background-color: #333e48;
+  height: 200px;
+  margin: 100px 0px 0px 70px; 
+}
+.zero ul li {
+  display: inline-block;
+}
+.black {
+  font-size: 1.625rem;
+  line-height: 1.3;
+  color: inherit;
+  display: inline-block;
+}
+.zzz {
+  width: 33%;
+  flex: 1;
+  color: inherit;
+
+}
+.fff {
+
+}
 
