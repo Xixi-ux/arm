@@ -242,22 +242,44 @@ div.e {
   height: 200px;
   margin: 100px 0px 0px 70px; 
 }
+
 .zero ul li {
-  display: inline-block;
+  display: inline;
+  color: #ffffff;
+
 }
+
 .black {
-  font-size: 1.625rem;
-  line-height: 1.3;
-  color: inherit;
-  display: inline-block;
-}
-.zzz {
-  width: 33%;
+  font-size: 25px;
+  position: relative;
+  top: 80px;
+  left: 100px;
   flex: 1;
-  color: inherit;
+  display: inline-block;
+  width: 150px;
+  right: 50px;
+  font-weight: 900;
+}
+
+.zzz {
+  flex: 1;
+  font-size: 20px;
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 1;
+  font-style: normal; 
+  position: relative;
+  left: 250px;
+  top: 65px;
+  right: 20px;
+  
+}
+.zzz a{
+  text-decoration: none;
+  border-bottom: none;
+  color: #ffffff;
 
 }
-.fff {
 
-}
 
