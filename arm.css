@@ -250,7 +250,7 @@ div.e {
 }
 
 .black {
-  font-size: 25px;
+  font-size: 20px;
   position: relative;
   top: 80px;
   left: 100px;
@@ -263,7 +263,7 @@ div.e {
 
 .zzz {
   flex: 1;
-  font-size: 20px;
+  font-size: 15px;
   display: inline-block;
   color: #ffffff;
   font-weight: 700;
@@ -273,13 +273,109 @@ div.e {
   left: 250px;
   top: 65px;
   right: 20px;
-  
+  border-right: 2px solid #586269;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .zzz a{
   text-decoration: none;
   border-bottom: none;
   color: #ffffff;
-
 }
-
-
+.aaa {
+  flex: 1;
+  font-size: 15px;
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 1;
+  font-style: normal; 
+  position: relative;
+  border-right: 2px solid #586269;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  top: 65px;
+  left: 300px;
+}
+.aaa a{
+  text-decoration: none;
+  border-bottom: none;
+  color: #ffffff;
+}
+.bbb {
+  flex: 1;
+  font-size: 15px;
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 1;
+  font-style: normal; 
+  position: relative;
+  border-right: 2px solid #586269;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  top: 65px;
+  left: 350px;
+}
+.bbb a {
+  text-decoration: none;
+  border-bottom: none;
+  color: #ffffff;
+}
+.ccc {
+  flex: 1;
+  font-size: 15px;
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 1;
+  font-style: normal; 
+  position: relative;
+  border-right: 2px solid #586269;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  top: 65px;
+  left: 400px;
+}
+.ccc a {
+  text-decoration: none;
+  border-bottom: none;
+  color: #ffffff;
+}
+.ddd {
+  flex: 1;
+  font-size: 15px;
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 1;
+  font-style: normal; 
+  position: relative;
+  border-right: 2px solid #586269;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  top: 65px;
+  left: 450px;
+}
+.ddd a {
+  text-decoration: none;
+  border-bottom: none;
+  color: #ffffff;
+}
+.bule {
+  margin-left: 70px;
+}
+.white {
+  line-height: 3;
+  font-size: 45px;
+  font-weight: 700;
+  margin: 100px 0px 100px 350px; 
+  display: inline-block;
+}
+.red {
+}
