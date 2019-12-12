@@ -378,4 +378,75 @@ div.e {
   display: inline-block;
 }
 .red {
+  
+  margin-left: 70px;
+
+  width: 600px;
+
+  height: 1500px;
+
+  background-color: #333e48;
+
+margin-top: -200px;
+
+}
+#vi {
+
+
+ margin-left: 150px;
+
+  width: 1200px;
+
+  height: 800px;
+
+}
+.xx {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 1;
+  font-family: sans-serif;
+  display: inline;
+  position: relative;
+  top: 300px;
+  left: 70px;
+
+}
+.hh {
+  color: #ffffff;
+  font-size: 45px;
+  font-weight:500;
+  line-height: 1;
+  display: inline;
+  font-family: sans-serif;
+ position: relative;
+  top: 320px;
+  left: 70px;
+}
+.wawo {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.5;
+  font-family: sans-serif;
+  display: inline;
+  position: relative;
+  top: 380px;
+  left: 70px;
+}
+.kk {
+  color: #00ced1;
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 1;
+  font-family: sans-serif;
+  display: inline;
+  position: relative;
+  top: -650px;
+  left: 70px;
+}
+.nn{
+  height: 1500px;
+  margin: -200px 0px 0px 610px;
+  float: right;
 }
